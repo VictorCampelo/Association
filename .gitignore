@@ -6,8 +6,5 @@ nbproject/
 dist/
 nbdist/
 .nb-gradle/
-web/
-WebContent/
-test/
 src/conf/
 .*
