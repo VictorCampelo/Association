@@ -1,0 +1,12 @@
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbproject/
+dist/
+nbdist/
+.nb-gradle/
+web/
+WebContent/
+test/
+src/conf/
